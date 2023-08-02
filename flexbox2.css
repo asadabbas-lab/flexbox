@@ -3,6 +3,9 @@
   padding: 0;
   background-color: rgb(224, 222, 222);
 }
+.body {
+  margin-top: 5px;
+}
 .nav-parent {
   display: flex;
   margin-left: 5px;
@@ -23,7 +26,7 @@
 .first-box {
   background-color: #9ca88f;
   width: 700px;
-  height: 510px;
+  height: 505px;
   margin-top: 5px;
   display: flex;
   align-items: center;
@@ -40,7 +43,7 @@
 }
 .gb {
   background-color: #abbf77;
-  width: 640px;
+  width: 645px;
   height: 123px;
   margin-top: 4.5px;
   margin-left: 5px;
