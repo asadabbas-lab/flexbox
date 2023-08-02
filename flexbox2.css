@@ -25,16 +25,15 @@
   width: 700px;
   height: 510px;
   margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
 }
 .second-box {
   width: 100px;
   height: 100px;
   background-color: #fff256;
-  align-items: center;
-  margin-top: 255px;
-  margin-bottom: 255px;
-  margin-left: 300px;
-  margin-right: 300px;
 }
 .row {
   flex-direction: row;
